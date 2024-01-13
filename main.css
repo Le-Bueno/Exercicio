@@ -1,0 +1,59 @@
+body {
+    max-width: 1200px;
+
+    margin: 0 auto;
+
+}
+
+
+.formulario-container {
+    background-color: #7ea7e0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.formulario-container h2 {
+    color: #333;
+    margin-bottom: 10px;
+
+}
+
+.formulario-container p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+.requisitos-container {
+    display: flex;
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+.requisitos-container img {
+    margin-right: 10px;
+}
+
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    margin-bottom: 10px;
+    padding: 8px;
+    width: 100%;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
